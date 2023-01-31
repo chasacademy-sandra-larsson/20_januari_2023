@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+div {
+    width: 100%;
+    padding: 100px;
+}
+
+.one {
+    background: #ffc;
+ 
+}
+
+.two {
+    background: aquamarine;
+    
+}
+
+.three {
+    background: #fcc;
+}
+
+.overlay {
+  background: red;
+}
+
+.modal {
+   background: #000;
+}
